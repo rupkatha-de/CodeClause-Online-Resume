@@ -1,0 +1,63 @@
+body {
+    background-color: #fff;
+    font-family: sans-serif;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  header {
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+  }
+  
+  h2 {
+    font-size: 18px;
+    color: #000;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    cursor: pointer;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .contact {
+    color: #ccc;
+  }
+  
+  /* Add some attractive CSS styling */
+  
+  body {
+    background-color: #F5F5F5;
+  }
+  
+  header {
+    font-family: Georgia;
+  }
+  
+  h2 {
+    font-family: Arial;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  li {
+    border-radius: 5px;
+  }
+  
+  .contact {
+    font-style: italic;
+  }
